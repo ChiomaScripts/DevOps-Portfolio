@@ -4,11 +4,14 @@ A collection of hands-on projects focused on cloud infrastructure, Linux adminis
 
 This portfolio documents practical implementations, technical decisions, troubleshooting experiences, and lessons learned while developing my DevOps and cloud engineering capabilities.
 
+
 ## Projects
 
 | Project | Technologies | Implementation | Repository |
 |---|---|---|---|
 | **Cloud Infrastructure & Java Application Deployment** | DigitalOcean, Ubuntu, Linux, SSH, Java, Gradle, SCP, Spring Boot | Provisioned an Ubuntu cloud server, configured SSH authentication and Linux user permissions, built and deployed a Java application, configured firewall access, and verified successful deployment. | [View Project](https://github.com/ChiomaScripts/Dev5-cloud-iaas) |
+| **Artifact Repository Management & Java Artifact Publishing with Nexus** | DigitalOcean, Ubuntu, Nexus Repository Manager, Linux, Java, Gradle, Maven | Installed and configured Nexus on a cloud server, troubleshot resource limitations, implemented service and repository-level access controls, and published Java artifacts using Gradle and Maven. | [View Project](https://github.com/ChiomaScripts/Dev6-nexus-artifact-repository) |
+
 
 ## Engineering Focus
 
