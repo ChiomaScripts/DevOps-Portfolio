@@ -47,3 +47,10 @@ Completed projects are linked above. Additional projects will be added as I prog
 This portfolio reflects my continued development in DevOps engineering, building on a foundation in production operations, application support, troubleshooting, and service reliability.
 
 The focus is on gaining practical experience across the application delivery lifecycle, from infrastructure provisioning and deployment to automation, monitoring, and operational improvement.
+
+
+---
+
+## 🔗 Explore My Complete Engineering Portfolio
+
+For a consolidated view of my professional engineering experience, DevOps implementations, Python development, applied AI and data analytics projects, visit my **[Engineering Portfolio](https://github.com/ChiomaScripts/Engineering-Portfolio)**.
